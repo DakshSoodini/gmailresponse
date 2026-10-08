@@ -1,0 +1,6 @@
+# Google OAuth files — these grant access to the mailbox; never commit
+credentials.json
+token.json
+
+__pycache__/
+.venv/
